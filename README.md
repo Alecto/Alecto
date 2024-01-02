@@ -26,6 +26,7 @@ Senior Lecturer, Department of Information Systems, National Technical Universit
 
 <p align="left">
   <a href="https://www.facebook.com/fomenko.andrii" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 15px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="filter: invert(100%);" /></a> 
+  &nbsp;
   <a href="https://www.github.com/Alecto" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 15px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(100%);" /></a>  
   &nbsp;
   <a href="https://www.linkedin.com/in/andrii-fomenko" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 15px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="filter: invert(100%);" /></a>
