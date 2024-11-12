@@ -100,20 +100,6 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 </p>
 
 
-### Technical Skills
-
-- **Front-End**: HTML (Pug), CSS (Less, SCSS/Sass), JavaScript (ES5, ES6+), jQuery, TypeScript, Bootstrap, Angular, RxJS, React, Redux, Next.js
-- **Back-End**: Node.js, Express, MongoDB, Mongoose
-- **Development Tools**: Git, GitHub/GitLab, Gulp, Webpack, Node.js, NPM, Yarn, Visual Studio Code, WebStorm/PhpStorm, Postman
-- **Design Principles & Methodologies**: BEM, DRY, YAGNI, KISS, SOLID, Agile, Scrum
-
-### Teaching & Coaching Experience
-
-- Developing materials for Frontend and Full-Stack courses
-- Planning individualized training schedules and methods, providing feedback, and preparing progress reports
-- Conducting distance learning sessions in Ukraine and internationally
-- Interviewing and onboarding FrontEnd course coaches at SkillUP training center in Ukraine and abroad
-
 
 ### Socials
 
