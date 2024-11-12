@@ -7,7 +7,7 @@ Full-Stack Developer, Senior IT Professional and Educator
 Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Department of Information Systems, National Technical University "KhPI". Architect and Project Manager ASTRAVEL and SKITOURS, LLC Astravel.
 
 * 🌍  I'm based in Ukraine
-* 🖥️  See my portfolio at [fomenko.top](http://fomenko.top/)
+* 🖥️  Connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-fomenko/)
 * ✉️  You can contact me at [andrii.a.fomenko@gmail.com](mailto:andrii.a.fomenko@gmail.com)
 
 ### Skills
