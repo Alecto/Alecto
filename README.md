@@ -100,12 +100,6 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 </p>
 
 
-### General Information
-
-- **Senior Lecturer**: Department of Information Systems, National Technical University "Kharkiv Polytechnic Institute"
-- **Architect and Project Manager**: ASTRAVEL and SKITOURS, LLC Astravel
-- **Head Coach**: Full-Stack JS Course, Hillel IT School
-
 ### Technical Skills
 
 - **Front-End**: HTML (Pug), CSS (Less, SCSS/Sass), JavaScript (ES5, ES6+), jQuery, TypeScript, Bootstrap, Angular, RxJS, React, Redux, Next.js
