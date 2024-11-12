@@ -100,13 +100,25 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 </p>
 
 
-### Additional Skills
+### General Information
 
-- **Front-End**: Pug (HTML шаблонізатор), Less (CSS препроцесор), RxJS (реактивне програмування для Angular)
-- **Back-End**: Mongoose (ORM для MongoDB)
-- **Development Tools**: Gulp (автоматизація задач), Yarn (менеджер пакетів), WebStorm/PhpStorm (IDE), Postman (тестування API)
-- **Design Principles & Methodologies**: BEM (структуризація CSS), DRY, YAGNI, KISS, SOLID (чистий код), Agile, Scrum (управління проєктами)
-- **Teaching & Coaching**: створення навчальних матеріалів, індивідуальні навчальні плани, дистанційне навчання, підготовка тренерів
+- **Senior Lecturer**: Department of Information Systems, National Technical University "Kharkiv Polytechnic Institute"
+- **Architect and Project Manager**: ASTRAVEL and SKITOURS, LLC Astravel
+- **Head Coach**: Full-Stack JS Course, Hillel IT School
+
+### Technical Skills
+
+- **Front-End**: HTML (Pug), CSS (Less, SCSS/Sass), JavaScript (ES5, ES6+), jQuery, TypeScript, Bootstrap, Angular, RxJS, React, Redux, Next.js
+- **Back-End**: Node.js, Express, MongoDB, Mongoose
+- **Development Tools**: Git, GitHub/GitLab, Gulp, Webpack, Node.js, NPM, Yarn, Visual Studio Code, WebStorm/PhpStorm, Postman
+- **Design Principles & Methodologies**: BEM, DRY, YAGNI, KISS, SOLID, Agile, Scrum
+
+### Teaching & Coaching Experience
+
+- Developing materials for Frontend and Full-Stack courses
+- Planning individualized training schedules and methods, providing feedback, and preparing progress reports
+- Conducting distance learning sessions in Ukraine and internationally
+- Interviewing and onboarding FrontEnd course coaches at SkillUP training center in Ukraine and abroad
 
 
 ### Socials
