@@ -100,6 +100,14 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 </p>
 
 
+### Additional Skills
+
+- **Front-End**: Pug (HTML шаблонізатор), Less (CSS препроцесор), RxJS (реактивне програмування для Angular)
+- **Back-End**: Mongoose (ORM для MongoDB)
+- **Development Tools**: Gulp (автоматизація задач), Yarn (менеджер пакетів), WebStorm/PhpStorm (IDE), Postman (тестування API)
+- **Design Principles & Methodologies**: BEM (структуризація CSS), DRY, YAGNI, KISS, SOLID (чистий код), Agile, Scrum (управління проєктами)
+- **Teaching & Coaching**: створення навчальних матеріалів, індивідуальні навчальні плани, дистанційне навчання, підготовка тренерів
+
 
 ### Socials
 
