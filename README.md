@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer, Senior IT Professional and Educator
 ---------------------------------------------------------
 
-Senior Lecturer, Department of Information Systems, National Technical University "KhPI". Architect, project manager, ASTRAVEL and SKITOURS, LLC Astravel. Head Coach of the Full-Stack JS course at Hillel IT School.
+Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Department of Information Systems, National Technical University "KhPI". Architect and Project Manager ASTRAVEL and SKITOURS, LLC Astravel.
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [fomenko.top](http://fomenko.top/)
