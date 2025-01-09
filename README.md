@@ -127,6 +127,4 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/andriifomenko"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-  &nbsp;
 <a href="https://www.ko-fi.com/andriifomenko"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
