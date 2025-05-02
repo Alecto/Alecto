@@ -125,6 +125,3 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 
 <a href="https://github.com/Alecto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alecto&langs_count=10&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.ko-fi.com/andriifomenko"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
