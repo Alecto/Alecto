@@ -1,14 +1,31 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrii Fomenko
 ======================================================================================================================================
 
-Full-Stack Developer, Senior IT Professional and Educator
----------------------------------------------------------
+AI Engineer | Full-Stack JavaScript/TypeScript Developer | Cybersecurity & Information Security
+------------------------------------------------------------------------------------------------
 
-Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Department of Information Systems, National Technical University "KhPI". Architect and Project Manager ASTRAVEL and SKITOURS, LLC Astravel.
+### About me
 
-* 🌍  I'm based in Ukraine
+I work across AI engineering, full-stack JavaScript/TypeScript development, cybersecurity, and technical education. My current focus includes AI agents and LLM applications, tool calling, RAG, MCP integrations, context engineering, and reliable AI-assisted development workflows.
+
+My security work covers governance, information security policy, risk and threat assessment, access control, and compliance. I also teach and develop practical curricula at Hillel IT School and NTU KhPI, connecting core engineering practices with modern AI workflows.
+
+* 🌍  I'm based in Kharkiv, Ukraine
 * 🖥️  Connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-fomenko/)
 * ✉️  You can contact me at [andrii.a.fomenko@gmail.com](mailto:andrii.a.fomenko@gmail.com)
+
+### Teaching & programs
+
+- Creator and Head Coach, **AI Agents for Developers** at Hillel IT School, covering agent workflows, RAG, tool use, MCP, context engineering, orchestration, and validation.
+- Head Coach, **AI-Powered Full-Stack JavaScript Developer** at Hillel IT School.
+- Course Author & Curriculum Developer for Full-Stack JavaScript and AI Engineering programs at Hillel IT School.
+- Head Coach, **FullStack JS Course** at Hillel IT School.
+- Senior Lecturer, Department of Information Systems, National Technical University "Kharkiv Polytechnic Institute" (NTU KhPI).
+- Freelance Full-Stack Web Developer.
+
+### Previous experience
+
+Architect and Project Manager at ASTRAVEL and SKITOURS through November 2025.
 
 ### Skills
 
@@ -119,9 +136,9 @@ Head Coach of the Full-Stack JS Course, Hillel IT School. Senior Lecturer, Depar
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Alecto"><img src="https://github-readme-stats.vercel.app/api?username=Alecto&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Alecto's GitHub stats" /></a>
+<a href="https://github.com/Alecto"><img src="https://github-readme-stats.vercel.app/api?username=Alecto&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true" alt="Alecto's GitHub stats" /></a>
 
-<a href="http://www.github.com/Alecto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alecto&stroke=f97316&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="https://github.com/Alecto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alecto&stroke=f97316&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/Alecto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alecto&langs_count=10&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Alecto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alecto&langs_count=10&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
